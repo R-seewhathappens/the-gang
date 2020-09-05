@@ -1,4 +1,3 @@
-console.log('hey there!')
 
 
 function showPopup (){
